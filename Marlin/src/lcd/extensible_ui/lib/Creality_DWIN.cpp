@@ -1,7 +1,7 @@
 #include "Creality_DWIN.h"
 #include <HardwareSerial.h>
-#include <arduino.h>
-#include <wstring.h>
+#include <Arduino.h>
+#include <WString.h>
 #include <stdio.h>
 #include "../ui_api.h"
 
